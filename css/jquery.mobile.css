@@ -1,0 +1,43 @@
+﻿.ui-icon { background-color: #84A191 !important }
+.ui-bar-a a.ui-link:visited { color: #1A5336 }
+.ui-bar-a a.ui-link:hover { color: #1A5336 }
+.ui-bar-a a.ui-link:active { color: #1A5336 }
+.ui-body-a .ui-link { color: #1A5336; }
+.ui-body-a .ui-link:visited { color: #1A5336 }
+.ui-body-a .ui-link:hover { color: #1A5336 }
+.ui-body-a .ui-link:active { color: #1A5336 }
+.ui-body-b .ui-link { color: #1A5336; }
+.ui-body-b .ui-link:visited { color: #1A5336 }
+.ui-body-b .ui-link:hover { color: #1A5336 }
+.ui-body-b .ui-link:active { color: #1A5336 }
+.ui-bar-c a.ui-link:visited { color: #1A5336 }
+.ui-bar-c a.ui-link:hover { color: #1A5336 }
+.ui-bar-c a.ui-link:active { color: #1A5336 }
+.ui-body-c .ui-link { color: #1A5336; }
+.ui-body-c .ui-link:visited { color: #1A5336 }
+.ui-body-c .ui-link:hover { color: #1A5336 }
+.ui-body-c .ui-link:active { color: #1A5336 }
+.ui-bar-d a.ui-link { color: #1A5336; }
+.ui-bar-d a.ui-link:visited { color: #1A5336 }
+.ui-bar-d a.ui-link:hover { color: #1A5336 }
+.ui-bar-d a.ui-link:active { color: #1A5336 }
+.ui-body-d .ui-link { color: #1A5336; }
+.ui-body-d .ui-link:visited { color: #1A5336 }
+.ui-body-d .ui-link:hover { color: #1A5336 }
+.ui-body-d .ui-link:active { color: #1A5336 }
+.ui-bar-e a.ui-link { color: #1A5336; }
+.ui-bar-e a.ui-link:visited { color: #1A5336 }
+.ui-bar-e a.ui-link:hover { color: #1A5336 }
+.ui-bar-e a.ui-link:active { color: #1A5336 }
+.ui-body-e .ui-link { color: #1A5336; }
+.ui-body-e .ui-link:visited { color: #1A5336 }
+.ui-body-e .ui-link:hover { color: #1A5336 }
+.ui-body-e .ui-link:active { color: #1A5336 }
+
+.ui-select,.ui-checkbox,.ui-body-c,.ui-body-c input,.ui-body-c select,.ui-body-c textarea,.ui-body-c button{font-family:Verdana, Geneva, sans-serif}
+.ui-btn-up-c,.ui-btn-hover-c,.ui-btn-down-c{font-family:Verdana, Geneva, sans-serif}
+
+[class^="ui-body-"],
+[class*=" ui-body-"] {text-shadow:none;}
+
+.ui-body-c .ui-link{}
